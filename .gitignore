@@ -1,0 +1,9 @@
+# IDE files
+.idea
+*.iml
+
+# MacOS files
+.DS_Store
+
+# Node modules
+node_modules
